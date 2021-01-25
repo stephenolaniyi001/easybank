@@ -1,0 +1,37 @@
+.request{
+    width: 150px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(103, 172, 103);
+    
+}
+.navbar-collapse{
+    justify-content: center;
+}
+.nav-link{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.intro1{
+    width: 600px;
+    /* position: relative; */
+    /* left: 600px; */
+    
+}
+.intro2{
+    width: 350px;
+    position: relative;
+    bottom: 300px;
+    /* left: 90px; */
+}
+.general6{
+    position: relative;
+    top: -200px;
+}
+.currency{
+    width: 250px;
+}
+.general7{
+    background-color: rgb(11, 84, 129);
+    margin-top: 50px;
+}
